@@ -1,0 +1,71 @@
+{
+  "pipeline_version": "2.1.0",
+  "api_dependencies": "none",
+  "processed_at": "2026-04-23T06:20:17.071685+00:00",
+  "source_file": "/Users/shivkumar/Desktop/TextExtraction/backend/uploads/1776925214219_image2.webp",
+  "file_hash_md5": "9c30edd2e2447f8b306df59f8c248a74",
+  "document_type": "screenshot",
+  "image_quality": {
+    "original_size_hw": [
+      1024,
+      768
+    ],
+    "sharpness": 2081.45,
+    "is_blurry": false,
+    "upscaled_factor": 1.76
+  },
+  "ocr": {
+    "raw_text": "promptforgeneratehandwrittenAinotes\nCreateultra-realistichandwrittenstudynotesforthetopici.....s0useeeeeds\nSTYLEPAPER\nRealisticstudenthandwritingslightlyimperfect.naturalspacing.notrobotic\nWrittenwithblueinkonwhiteA4ruled/linednotebookpaper\nVerticallayout916aspectratio.A4size\nMarginsvisiblepageslightlytiltedlikeascannednotebook\nNoprintedfonts-mustlook_100handwritten\n\nHIGHLIGHTINGMARKING\n\nUseayellowneonhighlightertohighlight\n\nDefinitions\n\n-Importantterms\n\n-Keyformulas\n\nExam-orientedkeywords\n\nUseredpento\nCircleimportantyears.datesconstants.laws.ordiscoverieswhereverapplicable\n-Underlineveryimportantlinesoncenotoveruse\nUseblackpenoccasionallyforheadingsonly\nCONTENTSTRUCTUREVERYIMPORTANT.\nClearhandwrittentitleatthetopbiggersize\nPropersubheadingswithspacing\nStep-by-stepexplanationinshort.readablepoints",
+    "avg_confidence": 89.4,
+    "best_psm_mode": "6+whitelist",
+    "ocr_engine": "tesseract-5.5.2",
+    "word_count": 22,
+    "is_low_confidence": false,
+    "note": ""
+  },
+  "text": {
+    "original": "promptforgeneratehandwrittenAinotes\nCreateultra-realistichandwrittenstudynotesforthetopici.....s0useeeeeds\nSTYLEPAPER\nRealisticstudenthandwritingslightlyimperfect.naturalspacing.notrobotic\nWrittenwithblueinkonwhiteA4ruled/linednotebookpaper\nVerticallayout916aspectratio.A4size\nMarginsvisiblepageslightlytiltedlikeascannednotebook\nNoprintedfonts-mustlook_100handwritten\n\nHIGHLIGHTINGMARKING\n\nUseayellowneonhighlightertohighlight\n\nDefinitions\n\n-Importantterms\n\n-Keyformulas\n\nExam-orientedkeywords\n\nUseredpento\nCircleimportantyears.datesconstants.laws.ordiscoverieswhereverapplicable\n-Underlineveryimportantlinesoncenotoveruse\nUseblackpenoccasionallyforheadingsonly\nCONTENTSTRUCTUREVERYIMPORTANT.\nClearhandwrittentitleatthetopbiggersize\nPropersubheadingswithspacing\nStep-by-stepexplanationinshort.readablepoints",
+    "cleaned": "promptforgeneratehandwrittenAinotes\nCreateultra-realistichandwrittenstudynotesforthetopici.....souseeeeeds\nSTYLEPAPER\nRealisticstudenthandwritingslightlyimperfect.naturalspacing.notrobotic\nWrittenwithblueinkonwhiteA4ruled/linednotebookpaper\nVerticallayout916aspectratio.A4size\nMarginsvisiblepageslightlytiltedlikeascannednotebook\nNoprintedfonts-mustlook_100handwritten\n\nHIGHLIGHTINGMARKING\n\nUseayellowneonhighlightertohighlight\n\nDefinitions\n\n-Importantterms\n\n-Keyformulas\n\nExam-orientedkeywords\n\nUseredpento\nCircleimportantyears.datesconstants.laws.ordiscoverieswhereverapplicable\n-Underlineveryimportantlinesoncenotoveruse\nUseblackpenoccasionallyforheadingsonly\nCONTENTSTRUCTUREVERYIMPORTANT.\nClearhandwrittentitleatthetopbiggersize\nPropersubheadingswithspacing\nStep-by-stepexplanationinshort.readablepoints",
+    "noise_issues": [
+      "char-fix '(?<=[A-Za-z_])0(?=[A-Za-z_])' applied 1x"
+    ],
+    "char_count": 808,
+    "line_count": 29
+  },
+  "confidence_estimate": {
+    "method": "tesseract_confidence",
+    "estimated_accuracy_score": 87.4,
+    "quality": "high"
+  },
+  "extracted_entities": {
+    "named_entities_spacy": {
+      "ORG": [
+        "Createultra-realistichandwrittenstudynotesforthetopici"
+      ]
+    }
+  },
+  "semantic_analysis": {
+    "document_category": "handwritten_note",
+    "sentiment": "neutral",
+    "summary": "Screenshot handwritten_note with 22 lines and 22 words. First line: \"promptforgeneratehandwrittenAinotes\".",
+    "statistics": {
+      "total_words": 22,
+      "total_lines": 22,
+      "avg_line_length": 35.5,
+      "unique_words": 22
+    },
+    "top_keywords": [
+      "promptforgeneratehandwrittenainotes",
+      "createultra",
+      "realistichandwrittenstudynotesforthetopici",
+      "souseeeeeds",
+      "stylepaper",
+      "realisticstudenthandwritingslightlyimperfect",
+      "naturalspacing",
+      "notrobotic",
+      "writtenwithblueinkonwhitea",
+      "ruled"
+    ],
+    "language_hint": "unknown"
+  }
+}

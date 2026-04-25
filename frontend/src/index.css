@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;1,9..40,400&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+  /* Colors */
+  --color-brand-100: #a7f3d0;
+  --color-brand-400: #1D9E75;
+  --color-brand-600: #157a5a;
+  --color-surface: #0d0f0e;
+  --color-surface-2: #111413;
+  --color-surface-3: #161a18;
+  --color-border: #1f2421;
+  --color-border-2: #2a3330;
+
+  /* Fonts */
+  --font-display: "DM Sans", sans-serif;
+  --font-body: "DM Sans", sans-serif;
+
+  /* Font weights */
+  --font-weight-500: 500;
+  --font-weight-600: 600;
+  --font-weight-700: 700;
+  --font-weight-800: 800;
+}
+
+/* Glass card component */
+@utility glass-card {
+  border-radius: 1rem;
+  border: 1px solid var(--color-border);
+  background-color: var(--color-surface-2);
+}
+
+/* Input field component */
+@utility input-field {
+  width: 100%;
+  background-color: var(--color-surface-2);
+  border: 1px solid var(--color-border-2);
+  border-radius: 0.75rem;
+  padding: 0.625rem 0.875rem;
+  font-size: 0.875rem;
+  color: white;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+/* Focus handled outside @utility */
+.input-field:focus {
+  border-color: var(--color-brand-400);
+  outline: none;
+}
+
+/* Pulse animation */
+@keyframes pulse2 {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@utility animate-pulse2 {
+  animation: pulse2 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

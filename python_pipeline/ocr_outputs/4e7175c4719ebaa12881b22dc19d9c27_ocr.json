@@ -1,0 +1,91 @@
+{
+  "pipeline_version": "2.0.0",
+  "api_dependencies": "none",
+  "processed_at": "2026-04-04T09:37:39.222713+00:00",
+  "source_file": "/Users/shivkumar/Desktop/TextExtraction/backend/uploads/4e7175c4719ebaa12881b22dc19d9c27",
+  "file_hash_md5": "7580c2dbbb2b7708980f8ab1401ce5aa",
+  "document_type": "mixed",
+  "image_quality": {
+    "original_size_hw": [
+      273,
+      491
+    ],
+    "sharpness": 27939.06,
+    "is_blurry": false,
+    "upscaled_factor": 3.67
+  },
+  "ocr": {
+    "raw_text": "Lorem ipsum dolor sit amet; eonseetetuer adipiscing elit: Ut purus elit;\nrestibulim ut; placerat ae; adipiscing ¥itae; felis: Eurabikur dictum gravida\ninautis: Nam aren libero; nonummy eget; consectetuer id; vulputate a; magna:\nDanee vehicula augue en neque: Pellentesque habitant merki tristique seneetis\nef nets ef malesnada fames ae turpis egestas: Mauris ut leo: Gras viverra\ninetis Fhonenus sem: Nulla et lectus vestiinium urea fringilla ultrices: Bhasellus\nen tellus sit amet tortor gravida placerat: fnteger sapien est; iaculis in; pretinm\nquis; ¥i¥eFFA ag; Mme: Braesent eget sem ¥el lea ultrices bibendum: Aenean\nfaneibus: Alerbi dealer milla; malesuada eu; pulvinar at; mollis ae; nulla: 6uk:\nADEE ANCEOE Semper nulla: Bones xarins orel eget risis: Buis nibh mi; congue\nell; accumsan eleliend, sagittis quis; diam: Buis eget orel sit amet orel dignissim\nPULA:",
+    "avg_confidence": 68.2,
+    "best_psm_mode": "6",
+    "ocr_engine": "tesseract-5.5.2",
+    "word_count": 130,
+    "is_low_confidence": false,
+    "note": ""
+  },
+  "text": {
+    "original": "Lorem ipsum dolor sit amet; eonseetetuer adipiscing elit: Ut purus elit;\nrestibulim ut; placerat ae; adipiscing ¥itae; felis: Eurabikur dictum gravida\ninautis: Nam aren libero; nonummy eget; consectetuer id; vulputate a; magna:\nDanee vehicula augue en neque: Pellentesque habitant merki tristique seneetis\nef nets ef malesnada fames ae turpis egestas: Mauris ut leo: Gras viverra\ninetis Fhonenus sem: Nulla et lectus vestiinium urea fringilla ultrices: Bhasellus\nen tellus sit amet tortor gravida placerat: fnteger sapien est; iaculis in; pretinm\nquis; ¥i¥eFFA ag; Mme: Braesent eget sem ¥el lea ultrices bibendum: Aenean\nfaneibus: Alerbi dealer milla; malesuada eu; pulvinar at; mollis ae; nulla: 6uk:\nADEE ANCEOE Semper nulla: Bones xarins orel eget risis: Buis nibh mi; congue\nell; accumsan eleliend, sagittis quis; diam: Buis eget orel sit amet orel dignissim\nPULA:",
+    "cleaned": "Lorem ipsum dolor sit amet; eonseetetuer adipiscing elit: Ut purus elit;\nrestibulim ut; placerat ae; adipiscing itae; felis: Eurabikur dictum gravida\ninautis: Nam aren libero; nonummy eget; consectetuer id; vulputate a; magna:\nDanee vehicula augue en neque: Pellentesque habitant merki tristique seneetis\nef nets ef malesnada fames ae turpis egestas: Mauris ut leo: Gras viverra\ninetis Fhonenus sem: Nulla et lectus vestiinium urea fringilla ultrices: Bhasellus\nen tellus sit amet tortor gravida placerat: fnteger sapien est; iaculis in; pretinm\nquis; ieFFA ag; Mme: Braesent eget sem el lea ultrices bibendum: Aenean\nfaneibus: Alerbi dealer milla; malesuada eu; pulvinar at; mollis ae; nulla: 6uk:\nADEE ANCEOE Semper nulla: Bones xarins orel eget risis: Buis nibh mi; congue\nell; accumsan eleliend, sagittis quis; diam: Buis eget orel sit amet orel dignissim\nPULA:",
+    "noise_issues": [
+      "noise pattern '[^\\x00-\\x7F]+' found 4x"
+    ],
+    "char_count": 865,
+    "line_count": 12
+  },
+  "extracted_entities": {
+    "named_entities_spacy": {
+      "PERSON": [
+        "Lorem",
+        "Mauris",
+        "Gras",
+        "Nulla",
+        "Mme",
+        "milla",
+        "malesuada eu",
+        "Buis nibh mi",
+        "accumsan",
+        "diam: Buis"
+      ],
+      "NORP": [
+        "Pellentesque",
+        "Aenean"
+      ],
+      "GPE": [
+        "malesnada"
+      ],
+      "LOC": [
+        "Fhonenus"
+      ],
+      "ORG": [
+        "el lea ultrices"
+      ],
+      "ORDINAL": [
+        "6uk"
+      ]
+    }
+  },
+  "semantic_analysis": {
+    "document_category": "document",
+    "sentiment": "neutral",
+    "summary": "Mixed document with 12 lines and 130 words. First line: \"Lorem ipsum dolor sit amet; eonseetetuer adipiscing elit: Ut purus elit;\".",
+    "statistics": {
+      "total_words": 130,
+      "total_lines": 12,
+      "avg_line_length": 71.2,
+      "unique_words": 114
+    },
+    "top_keywords": [
+      "eget",
+      "amet",
+      "nulla",
+      "orel",
+      "adipiscing",
+      "elit",
+      "placerat",
+      "gravida",
+      "ultrices",
+      "quis"
+    ],
+    "language_hint": "unknown"
+  }
+}

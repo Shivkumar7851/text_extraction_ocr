@@ -1,0 +1,91 @@
+{
+  "pipeline_version": "2.0.0",
+  "api_dependencies": "none",
+  "processed_at": "2026-04-04T09:25:40.879524+00:00",
+  "source_file": "/Users/shivkumar/Desktop/TextExtraction/backend/uploads/b8f54d30e7f43a16b7824b23c00fe5aa",
+  "file_hash_md5": "a1ee308841f7e4a5b40fc0400f05546e",
+  "document_type": "printed",
+  "image_quality": {
+    "original_size_hw": [
+      287,
+      461
+    ],
+    "sharpness": 24636.38,
+    "is_blurry": false,
+    "upscaled_factor": 3.9
+  },
+  "ocr": {
+    "raw_text": "mM o@) '@)) Ww OY ~~ R&S\nmM adw adowWw Oo WN a\nBS Aq AO nN © @© AM\n\nTaAarmrR MOoageomnwoaan\n~t a0 -« “OR A WN UO TR\nOH AM A ® <t We «= OO\nY~rmadt AQ An noose aA YO A\nMm) Oras aAwH A & Oe\nem | ~- ger TIT 20 OD «=\nN WN OO - ODF - - Aan we\nDOM a Ww IN AN Dwmmere B&B\nA mM ADO UO OrmoOo WN «= «© |<\nTmahMe Cat ZGBaon -- nonoeods>mMm\n° lao ot eet RO MOO M VY Ww WN\nt+ C¢ 4 l= WOR eA WONWO HY |\nocr co ae iy | INR Zo\nf~eHODO WENN VHNYWHN ta VU YW\nmoore weaAwowowre t| |e 8\nt~ VeEea2oc ld IO C=\nluU Bw eexKXDNhNA WVUVdsgeww +\nyvooaqoaiedipttwr»ieOo2Zwtaeaetet Fe Ww\nOH vuorwrwor-e VU tos VN\nSs Qa vaqtw oedawtoo >\nAM SOSH SOR AOS\nMW tTMnNnNn A DOODWR UO MN TM\naod oat oi aot ett DOOD OY VD O\naaqdantnt tnt ntti es",
+    "avg_confidence": 35.1,
+    "best_psm_mode": "6",
+    "ocr_engine": "tesseract-5.5.2",
+    "word_count": 173,
+    "is_low_confidence": true,
+    "note": ""
+  },
+  "text": {
+    "original": "mM o@) '@)) Ww OY ~~ R&S\nmM adw adowWw Oo WN a\nBS Aq AO nN © @© AM\n\nTaAarmrR MOoageomnwoaan\n~t a0 -« “OR A WN UO TR\nOH AM A ® <t We «= OO\nY~rmadt AQ An noose aA YO A\nMm) Oras aAwH A & Oe\nem | ~- ger TIT 20 OD «=\nN WN OO - ODF - - Aan we\nDOM a Ww IN AN Dwmmere B&B\nA mM ADO UO OrmoOo WN «= «© |<\nTmahMe Cat ZGBaon -- nonoeods>mMm\n° lao ot eet RO MOO M VY Ww WN\nt+ C¢ 4 l= WOR eA WONWO HY |\nocr co ae iy | INR Zo\nf~eHODO WENN VHNYWHN ta VU YW\nmoore weaAwowowre t| |e 8\nt~ VeEea2oc ld IO C=\nluU Bw eexKXDNhNA WVUVdsgeww +\nyvooaqoaiedipttwr»ieOo2Zwtaeaetet Fe Ww\nOH vuorwrwor-e VU tos VN\nSs Qa vaqtw oedawtoo >\nAM SOSH SOR AOS\nMW tTMnNnNn A DOODWR UO MN TM\naod oat oi aot ett DOOD OY VD O\naaqdantnt tnt ntti es",
+    "cleaned": "mM o@) '@)) Ww OY ~~ R&S\nmM adw adowWw Oo WN a\nBS Aq AO nN @ AM\n\nTaAarmrR MOoageomnwoaan\n~t a0 - OR A WN UO TR\nOH AM A <t We = OO\nY~rmadt AQ An noose aA YO A\nMm) Oras aAwH A & Oe\nem | ~- ger TIT 20 OD =\nN WN OO - ODF - - Aan we\nDOM a Ww IN AN Dwmmere B&B\nA mM ADO UO OrmoOo WN = |<\nTmahMe Cat ZGBaon -- nonoeods>mMm\n lao ot eet RO MOO M VY Ww WN\nt+ C 4 l= WOR eA WONWO HY |\nocr co ae iy | INR Zo\nf~eHODO WENN VHNYWHN ta VU YW\nmoore weaAwowowre t| |e 8\nt~ VeEea2oc ld IO C=\nluU Bw eexKXDNhNA WVUVdsgeww +\nyvooaqoaiedipttwrieOo2Zwtaeaetet Fe Ww\nOH vuorwrwor-e VU tos VN\nSs Qa vaqtw oedawtoo >\nAM SOSH SOR AOS\nMW tTMnNnNn A DOODWR UO MN TM\naod oat oi aot ett DOOD OY VD O\naaqdantnt tnt ntti es",
+    "noise_issues": [
+      "noise pattern '[^\\x00-\\x7F]+' found 12x",
+      "char-fix '[ \\t]{2,}' applied 3x"
+    ],
+    "char_count": 690,
+    "line_count": 28
+  },
+  "extracted_entities": {
+    "named_entities_spacy": {
+      "PERSON": [
+        "mM",
+        "~-",
+        "INR Zo",
+        "Fe Ww\nOH vuorwrwor"
+      ],
+      "ORG": [
+        "Oo WN",
+        "WN",
+        "DOM",
+        "RO MOO M VY Ww WN",
+        "C 4 l= WOR eA",
+        "weaAwowowre",
+        "AOS",
+        "MW",
+        "DOODWR UO MN TM"
+      ],
+      "WORK_OF_ART": [
+        "YO A\nMm"
+      ],
+      "CARDINAL": [
+        "20",
+        "8"
+      ],
+      "GPE": [
+        "IO"
+      ]
+    }
+  },
+  "semantic_analysis": {
+    "document_category": "document",
+    "sentiment": "neutral",
+    "summary": "Printed document with 27 lines and 169 words. First line: \"mM o@) '@)) Ww OY ~~ R&S\".",
+    "statistics": {
+      "total_words": 169,
+      "total_lines": 27,
+      "avg_line_length": 24.6,
+      "unique_words": 134
+    },
+    "top_keywords": [
+      "adowww",
+      "taaarmrr",
+      "mooageomnwoaan",
+      "rmadt",
+      "noose",
+      "oras",
+      "aawh",
+      "dwmmere",
+      "ormooo",
+      "tmahme"
+    ],
+    "language_hint": "unknown"
+  }
+}

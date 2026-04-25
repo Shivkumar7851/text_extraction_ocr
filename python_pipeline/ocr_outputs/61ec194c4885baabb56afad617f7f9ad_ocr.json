@@ -1,0 +1,102 @@
+{
+  "pipeline_version": "2.0.0",
+  "api_dependencies": "none",
+  "processed_at": "2026-04-04T09:46:19.260564+00:00",
+  "source_file": "/Users/shivkumar/Desktop/TextExtraction/backend/uploads/61ec194c4885baabb56afad617f7f9ad",
+  "file_hash_md5": "9c30edd2e2447f8b306df59f8c248a74",
+  "document_type": "printed",
+  "image_quality": {
+    "original_size_hw": [
+      1024,
+      768
+    ],
+    "sharpness": 2081.45,
+    "is_blurry": false,
+    "upscaled_factor": 1.76
+  },
+  "ocr": {
+    "raw_text": "cy\n8\ns a\npo a.\n£ )\n. to\nPy fom >\n: y\n9 S\ni < £\n: @o\n: = o =\n: (s) Qa $\n: @ iJ x4 —\noo a a ra\nee wv ° y\ncS) —_ a fo} >\n. e838 8 S\n° =) 2 ~ “A\n- ~ rT ro) o -_\ngy @ -~ Cc mod CT)\n<= e ° aa 7 “\n~ = S rT) e ° 2\niJ ~\n3 an) = vy “ rT) _\n= rT] c £ 3 > > ev\ntc c : ro = N\n“ = 8 ra iJ &\nrT) 2 = ee _ ~ Gc rv\n~ ~~, @ “a 3 = Py roy ° ak be\n2 Ew ss so FY OD £ece EE @\n> #2 FS Y 8 = G6 ow ¢c 2 8\n> =z st = & £ - aaa\n3 = 2@ « = £ ‘Bo “ 2 3 E 5\n$ mes = GF & < 5 8 § So a w\n= ¢4 o 2 f ° CO nw £ a oo ¢\nc u“ o . ~ - rT) ~ —\n= e £ ~ 2% 2 g# £ & = 2 8\n< 6B = tb & 8 - £ OC 24 > = - UW\noo c a YY . > = <4 = a o w i] <\nCc 3 ° “ wn “ = <= Oo \" t c > ow had\nao] oO Ss ~ ao © ro} ro] — — 4\n@ x rT) “ = 3 = ~~\nc S$ € © ow €& a <= < yo ¥ w Fw\ng £ @ 5 a ! = § \" 2g - € 9 > § §\nwv ~ =) « “ £ oe = ro) S|\n4) Cc = — ~ od wv no} o c Oo £\noO oe CT) re} ~~ = Cc [ rT] nv PY} c o\n. > WwW 3S 3 a z c # 3 @ Qa aw @& - 2\na + ~ £ vs < fo] c ay y cs\n«o “a 3 a > y -_ = ro] = £ c a4 \"n Cc i |\nSs < = 2 oO : x rs) = ra} a\n= a YQ c — A <= & tc = ra © rs]\n5 3 &€ & S$ EE Ss &— 6s 2 é&€ &€ we = Ss z= §\ny = ££ PP «4 a © >~ « re] os.\ni o € o =x y v e y x yo = S y = By rs}\neo = Cy = gy is] vy Oo = xs w “y¥ YO 2D “ = =\nogres + 2 2 93 7 7 7 YP 3 JF JF 3 Oo U0 a\nJ Oo 7) e e e e e <= e e e (o) e e",
+    "avg_confidence": 49.8,
+    "best_psm_mode": "6",
+    "ocr_engine": "tesseract-5.5.2",
+    "word_count": 502,
+    "is_low_confidence": true,
+    "note": ""
+  },
+  "text": {
+    "original": "cy\n8\ns a\npo a.\n£ )\n. to\nPy fom >\n: y\n9 S\ni < £\n: @o\n: = o =\n: (s) Qa $\n: @ iJ x4 —\noo a a ra\nee wv ° y\ncS) —_ a fo} >\n. e838 8 S\n° =) 2 ~ “A\n- ~ rT ro) o -_\ngy @ -~ Cc mod CT)\n<= e ° aa 7 “\n~ = S rT) e ° 2\niJ ~\n3 an) = vy “ rT) _\n= rT] c £ 3 > > ev\ntc c : ro = N\n“ = 8 ra iJ &\nrT) 2 = ee _ ~ Gc rv\n~ ~~, @ “a 3 = Py roy ° ak be\n2 Ew ss so FY OD £ece EE @\n> #2 FS Y 8 = G6 ow ¢c 2 8\n> =z st = & £ - aaa\n3 = 2@ « = £ ‘Bo “ 2 3 E 5\n$ mes = GF & < 5 8 § So a w\n= ¢4 o 2 f ° CO nw £ a oo ¢\nc u“ o . ~ - rT) ~ —\n= e £ ~ 2% 2 g# £ & = 2 8\n< 6B = tb & 8 - £ OC 24 > = - UW\noo c a YY . > = <4 = a o w i] <\nCc 3 ° “ wn “ = <= Oo \" t c > ow had\nao] oO Ss ~ ao © ro} ro] — — 4\n@ x rT) “ = 3 = ~~\nc S$ € © ow €& a <= < yo ¥ w Fw\ng £ @ 5 a ! = § \" 2g - € 9 > § §\nwv ~ =) « “ £ oe = ro) S|\n4) Cc = — ~ od wv no} o c Oo £\noO oe CT) re} ~~ = Cc [ rT] nv PY} c o\n. > WwW 3S 3 a z c # 3 @ Qa aw @& - 2\na + ~ £ vs < fo] c ay y cs\n«o “a 3 a > y -_ = ro] = £ c a4 \"n Cc i |\nSs < = 2 oO : x rs) = ra} a\n= a YQ c — A <= & tc = ra © rs]\n5 3 &€ & S$ EE Ss &— 6s 2 é&€ &€ we = Ss z= §\ny = ££ PP «4 a © >~ « re] os.\ni o € o =x y v e y x yo = S y = By rs}\neo = Cy = gy is] vy Oo = xs w “y¥ YO 2D “ = =\nogres + 2 2 93 7 7 7 YP 3 JF JF 3 Oo U0 a\nJ Oo 7) e e e e e <= e e e (o) e e",
+    "cleaned": "cy\n8\ns a\npo a.\n )\n. to\nPy fom >\n: y\n9 S\ni < \n: @o\n: = o =\n: (s) Qa $\n: @ iJ x4 \noo a a ra\nee wv y\ncS) _ a fo} >\n. e838 8 S\n =) 2 ~ A\n~ rT ro) o -_\ngy @ -~ Cc mod CT)\n<= e aa 7 \n= S rT) e 2\niJ ~\n3 an) = vy rT) _\nrT] c 3 > > ev\ntc c : ro = N\n = 8 ra iJ &\nrT) 2 = ee _ ~ Gc rv\n~~, @ a 3 = Py roy ak be\n2 Ew ss so FY OD ece EE @\n> #2 FS Y 8 = G6 ow c 2 8\n> =z st = & - aaa\n3 = 2@ = Bo 2 3 E 5\n$ mes = GF & < 5 8 So a w\n4 o 2 f CO nw a oo \nc u o. ~ - rT) ~ \ne ~ 2% 2 g# & = 2 8\n< 6B = tb & 8 - OC 24 > = - UW\noo c a YY. > = <4 = a o w i] <\nCc 3 wn = <= Oo \" t c > ow had\nao] oO Ss ~ ao ro} ro] 4\n@ x rT) = 3 = ~~\nc S$ ow & a <= < yo w Fw\ng @ 5 a ! = \" 2g - 9 > \nwv ~ =) oe = ro) S|\n4) Cc = ~ od wv no} o c Oo \noO oe CT) re} ~~ = Cc [ rT] nv PY} c o\n. > WwW 3S 3 a z c # 3 @ Qa aw @& - 2\na + ~ vs < fo] c ay y cs\no a 3 a > y -_ = ro] = c a4 \"n Cc i |\nSs < = 2 oO : x rs) = ra} a\na YQ c A <= & tc = ra rs]\n5 3 & & S$ EE Ss & 6s 2 & & we = Ss z= \ny = PP 4 a >~ re] os.\ni o o =x y v e y x yo = S y = By rs}\neo = Cy = gy is] vy Oo = xs w y YO 2D = =\nogres + 2 2 93 7 7 7 YP 3 JF JF 3 Oo U0 a\nJ Oo 7) e e e e e <= e e e (o) e e",
+    "noise_issues": [
+      "noise pattern '[^\\x00-\\x7F]+' found 73x",
+      "char-fix '[ \\t]+\\.' applied 2x",
+      "char-fix '[ \\t]{2,}' applied 38x",
+      "char-fix '^[+\\-=|~`]{1,2}\\s+' applied 7x"
+    ],
+    "char_count": 1116,
+    "line_count": 59
+  },
+  "extracted_entities": {
+    "phone_numbers": [
+      "2 2 93 7 7 7"
+    ],
+    "percentages": [
+      "2%"
+    ],
+    "named_entities_spacy": {
+      "CARDINAL": [
+        "8",
+        "9 S",
+        "2",
+        "7",
+        "3",
+        "2 8",
+        "2@",
+        "5 8",
+        "4"
+      ],
+      "PERSON": [
+        "cS",
+        "rT ro) o -_",
+        "rT",
+        "[ rT] nv PY",
+        "ogres + 2 2"
+      ],
+      "GPE": [
+        "FY"
+      ],
+      "PERCENT": [
+        "2%"
+      ],
+      "MONEY": [
+        "2 g# &"
+      ],
+      "ORG": [
+        "CT",
+        "EE Ss & 6s",
+        "2 & &",
+        "YO 2D"
+      ],
+      "DATE": [
+        "3S 3"
+      ],
+      "PRODUCT": [
+        "PP 4"
+      ]
+    }
+  },
+  "semantic_analysis": {
+    "document_category": "document",
+    "sentiment": "neutral",
+    "summary": "Printed document with 59 lines and 439 words. First line: \"cy\".",
+    "statistics": {
+      "total_words": 439,
+      "total_lines": 59,
+      "avg_line_length": 17.9,
+      "unique_words": 167
+    },
+    "top_keywords": [
+      "ogres"
+    ],
+    "language_hint": "unknown"
+  }
+}

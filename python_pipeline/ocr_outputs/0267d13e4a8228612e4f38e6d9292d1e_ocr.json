@@ -1,0 +1,74 @@
+{
+  "pipeline_version": "2.0.0",
+  "api_dependencies": "none",
+  "processed_at": "2026-04-04T09:14:28.221741+00:00",
+  "source_file": "/Users/shivkumar/Desktop/TextExtraction/backend/uploads/0267d13e4a8228612e4f38e6d9292d1e",
+  "file_hash_md5": "3424762d2ce0c1b7e85419b3770b111b",
+  "document_type": "mixed",
+  "image_quality": {
+    "original_size_hw": [
+      1024,
+      1024
+    ],
+    "sharpness": 3635.58,
+    "is_blurry": false,
+    "upscaled_factor": 1.76
+  },
+  "ocr": {
+    "raw_text": "Bring 4 human touch to your digital world with\niWeaver’s Al-powered handwriting converter.\ntransform typed text text into stunningly\nrealistic handwritten notes in customaird\nnotes in seconds. With over 50+ authentic fonts\ncustomizable ink colors, YOU can ensiey can\ncreate documents thot look uniquely yours:\nWhether you're 2 student streamlining\nassignments oF a professional adding\na personal flair to your outreach, iWeaver\nlets you download high-quality PDFs or\nimages instantly. INS\nStop hand-writing and start New\ncreating—experienc® the perfect SS\nblend of digital speed and classic pen-or SS\npaper style for free today. S\nCASUAL HANDWRITING",
+    "avg_confidence": 85.0,
+    "best_psm_mode": "6",
+    "ocr_engine": "tesseract-5.5.2",
+    "word_count": 96,
+    "is_low_confidence": false,
+    "note": ""
+  },
+  "text": {
+    "original": "Bring 4 human touch to your digital world with\niWeaver’s Al-powered handwriting converter.\ntransform typed text text into stunningly\nrealistic handwritten notes in customaird\nnotes in seconds. With over 50+ authentic fonts\ncustomizable ink colors, YOU can ensiey can\ncreate documents thot look uniquely yours:\nWhether you're 2 student streamlining\nassignments oF a professional adding\na personal flair to your outreach, iWeaver\nlets you download high-quality PDFs or\nimages instantly. INS\nStop hand-writing and start New\ncreating—experienc® the perfect SS\nblend of digital speed and classic pen-or SS\npaper style for free today. S\nCASUAL HANDWRITING",
+    "cleaned": "Bring 4 human touch to your digital world with\niWeavers Al-powered handwriting converter.\ntransform typed text text into stunningly\nrealistic handwritten notes in customaird\nnotes in seconds. With over 50+ authentic fonts\ncustomizable ink colors, YOU can ensiey can\ncreate documents thot look uniquely yours:\nWhether you're 2 student streamlining\nassignments oF a professional adding\na personal flair to your outreach, iWeaver\nlets you download high-quality PDFs or\nimages instantly. INS\nStop hand-writing and start New\ncreatingexperienc the perfect SS\nblend of digital speed and classic pen-or SS\npaper style for free today. S\nCASUAL HANDWRITING",
+    "noise_issues": [
+      "noise pattern '[^\\x00-\\x7F]+' found 3x"
+    ],
+    "char_count": 646,
+    "line_count": 17
+  },
+  "extracted_entities": {
+    "named_entities_spacy": {
+      "CARDINAL": [
+        "4",
+        "50",
+        "2"
+      ],
+      "TIME": [
+        "seconds"
+      ],
+      "DATE": [
+        "today"
+      ]
+    }
+  },
+  "semantic_analysis": {
+    "document_category": "document",
+    "sentiment": "neutral",
+    "summary": "Mixed document with 17 lines and 96 words. First line: \"Bring 4 human touch to your digital world with\".",
+    "statistics": {
+      "total_words": 96,
+      "total_lines": 17,
+      "avg_line_length": 37.1,
+      "unique_words": 82
+    },
+    "top_keywords": [
+      "your",
+      "digital",
+      "with",
+      "handwriting",
+      "text",
+      "notes",
+      "bring",
+      "human",
+      "touch",
+      "world"
+    ],
+    "language_hint": "en"
+  }
+}

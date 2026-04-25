@@ -1,0 +1,77 @@
+{
+  "pipeline_version": "2.0.0",
+  "api_dependencies": "none",
+  "processed_at": "2026-04-21T07:12:18.918955+00:00",
+  "source_file": "/Users/shivkumar/Desktop/TextExtraction/backend/uploads/79342663a8f51e3d8855c41fcc86bc2c",
+  "file_hash_md5": "a1ee308841f7e4a5b40fc0400f05546e",
+  "document_type": "screenshot",
+  "image_quality": {
+    "original_size_hw": [
+      287,
+      461
+    ],
+    "sharpness": 24636.38,
+    "is_blurry": false,
+    "upscaled_factor": 3.9
+  },
+  "ocr": {
+    "raw_text": "./2425/1/115_Lube_45484.jpg45484\n./2425/1/114_Spencerian_73323.jpg_73323\n./2425/1/113_accommodatingly_613.jpg_613\n./2425/1/112_CARPENTER_11682.jpg11682\n./2425/1/111_REGURGITATING64100.jpg_64100\n./2425/1/110_savannas_67969.jpg_67969\n./2425/1/109_unfix_82473.jpg82473\n./2425/1/108_CAGOULES_10765.jpg_10765\n./2425/1/107_TRANSITS80259.jpg_80259\n./2425/1/106_looped_45230.jpg_45230\n./2425/1/105_cowmen_17660.jpg_17660\n./2425/1/104_SYSTEMICALLY_77086.jpg_77086\n./2425/1/103_Offstages_53175.jpg_53175",
+    "avg_confidence": 62.7,
+    "best_psm_mode": "6+whitelist",
+    "ocr_engine": "tesseract-5.5.2",
+    "word_count": 13,
+    "is_low_confidence": false,
+    "note": ""
+  },
+  "text": {
+    "original": "./2425/1/115_Lube_45484.jpg45484\n./2425/1/114_Spencerian_73323.jpg_73323\n./2425/1/113_accommodatingly_613.jpg_613\n./2425/1/112_CARPENTER_11682.jpg11682\n./2425/1/111_REGURGITATING64100.jpg_64100\n./2425/1/110_savannas_67969.jpg_67969\n./2425/1/109_unfix_82473.jpg82473\n./2425/1/108_CAGOULES_10765.jpg_10765\n./2425/1/107_TRANSITS80259.jpg_80259\n./2425/1/106_looped_45230.jpg_45230\n./2425/1/105_cowmen_17660.jpg_17660\n./2425/1/104_SYSTEMICALLY_77086.jpg_77086\n./2425/1/103_Offstages_53175.jpg_53175",
+    "cleaned": "./2425/1/115_Lube_45484.jpg45484\n./2425/1/114_Spencerian_73323.jpg_73323\n./2425/1/113_accommodatingly_613.jpg_613\n./2425/1/112_CARPENTER_11682.jpg11682\n./2425/1/111_REGURGITATING64100.jpg_64100\n./2425/1/110_savannas_67969.jpg_67969\n./2425/1/109_unfix_82473.jpg82473\n./2425/1/108_CAGOULES_10765.jpg_10765\n./2425/1/107_TRANSITS80259.jpg_80259\n./2425/1/106_looped_45230.jpg_45230\n./2425/1/105_cowmen_17660.jpg_17660\n./2425/1/104_SYSTEMICALLY_77086.jpg_77086\n./2425/1/103_Offstages_53175.jpg_53175",
+    "noise_issues": [],
+    "char_count": 493,
+    "line_count": 13
+  },
+  "extracted_entities": {
+    "file_paths": [
+      "./2425/1/115_Lube_45484.jpg45484",
+      "./2425/1/114_Spencerian_73323.jpg_73323",
+      "./2425/1/113_accommodatingly_613.jpg_613",
+      "./2425/1/112_CARPENTER_11682.jpg11682",
+      "./2425/1/111_REGURGITATING64100.jpg_64100",
+      "./2425/1/110_savannas_67969.jpg_67969",
+      "./2425/1/109_unfix_82473.jpg82473",
+      "./2425/1/108_CAGOULES_10765.jpg_10765",
+      "./2425/1/107_TRANSITS80259.jpg_80259",
+      "./2425/1/106_looped_45230.jpg_45230",
+      "./2425/1/105_cowmen_17660.jpg_17660",
+      "./2425/1/104_SYSTEMICALLY_77086.jpg_77086",
+      "./2425/1/103_Offstages_53175.jpg_53175"
+    ],
+    "numeric_ids": [
+      "2425"
+    ]
+  },
+  "semantic_analysis": {
+    "document_category": "file_listing",
+    "sentiment": "neutral",
+    "summary": "Screenshot file_listing with 13 lines and 13 words. First line: \"./2425/1/115_Lube_45484.jpg45484\".",
+    "statistics": {
+      "total_words": 13,
+      "total_lines": 13,
+      "avg_line_length": 37.0,
+      "unique_words": 13
+    },
+    "top_keywords": [
+      "lube",
+      "spencerian",
+      "accommodatingly",
+      "carpenter",
+      "regurgitating",
+      "savannas",
+      "unfix",
+      "cagoules",
+      "transits",
+      "looped"
+    ],
+    "language_hint": "unknown"
+  }
+}

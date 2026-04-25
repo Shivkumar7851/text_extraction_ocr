@@ -1,0 +1,80 @@
+{
+  "pipeline_version": "2.0.0",
+  "api_dependencies": "none",
+  "processed_at": "2026-04-21T07:03:02.997218+00:00",
+  "source_file": "/Users/shivkumar/Desktop/TextExtraction/backend/uploads/22ed115d2f988d1e07e1e3472b04213a",
+  "file_hash_md5": "fca279b9800def35375aba7a0cd742db",
+  "document_type": "handwritten",
+  "image_quality": {
+    "original_size_hw": [
+      386,
+      686
+    ],
+    "sharpness": 4789.21,
+    "is_blurry": false,
+    "upscaled_factor": 2.62
+  },
+  "ocr": {
+    "raw_text": "(YL LO MA a\n\n° ° .\nJb pLOUL YG y,\n4A Gy. 5\nWL: mdhEL Yel-OULe wp fo oes fale (Hed\nfi (] J\nWUC YAWITTE. YALA DLLOLLY 0) C2 Thilo\n7 4,\n- app Qlhe (Yl, L£4———\nives\n\nY on",
+    "avg_confidence": 37.9,
+    "best_psm_mode": "4",
+    "ocr_engine": "tesseract-5.5.2",
+    "word_count": 42,
+    "is_low_confidence": true,
+    "note": "Handwritten/cursive text has inherently low Tesseract accuracy. For production-grade handwriting recognition consider TrOCR (HuggingFace, free, offline): pip install transformers torch  --  model: microsoft/trocr-base-handwritten"
+  },
+  "text": {
+    "original": "(YL LO MA a\n\n° ° .\nJb pLOUL YG y,\n4A Gy. 5\nWL: mdhEL Yel-OULe wp fo oes fale (Hed\nfi (] J\nWUC YAWITTE. YALA DLLOLLY 0) C2 Thilo\n7 4,\n- app Qlhe (Yl, L£4———\nives\n\nY on",
+    "cleaned": "(YL LO MA a\n\n.\nJb pLOUL YG y,\n4A Gy. 5\nWL: mdhEL Yel-OULe wp fo oes fale (Hed\nfi (] J\nWUC YAWITTE. YALA DLLOLLY 0) C2 Thilo\n7 4,\napp Qlhe (Yl, L4\nives\n\nY on",
+    "noise_issues": [
+      "noise pattern '[^\\x00-\\x7F]+' found 4x",
+      "char-fix '[ \\t]+\\.' applied 1x",
+      "char-fix '^[+\\-=|~`]{1,2}\\s+' applied 1x"
+    ],
+    "char_count": 156,
+    "line_count": 13
+  },
+  "extracted_entities": {
+    "named_entities_spacy": {
+      "ORG": [
+        "YL LO MA",
+        "mdhEL Yel-OULe",
+        "Qlhe"
+      ],
+      "CARDINAL": [
+        "4A",
+        "5"
+      ],
+      "WORK_OF_ART": [
+        "C2 Thilo\n7 4"
+      ],
+      "PERSON": [
+        "L4"
+      ]
+    }
+  },
+  "semantic_analysis": {
+    "document_category": "document",
+    "sentiment": "neutral",
+    "summary": "Handwritten document with 11 lines and 39 words. First line: \"(YL LO MA a\".",
+    "statistics": {
+      "total_words": 39,
+      "total_lines": 11,
+      "avg_line_length": 13.1,
+      "unique_words": 39
+    },
+    "top_keywords": [
+      "ploul",
+      "mdhel",
+      "oule",
+      "fale",
+      "yawitte",
+      "yala",
+      "dllolly",
+      "thilo",
+      "qlhe",
+      "ives"
+    ],
+    "language_hint": "unknown"
+  }
+}
